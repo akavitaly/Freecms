@@ -8,7 +8,7 @@ Support Windows & Linux OS:
 
 For the Windows please run free_cms_windows.bat - just double-click with mouse and network installations begins or from CMD shell
 
-For the Linux please run command: sudo bash bash free_cms_linux.sh
+For the Linux please run command: sudo bash free_cms_linux.sh
 
 ***************************************************************
 Thank you for using Free CMS!
